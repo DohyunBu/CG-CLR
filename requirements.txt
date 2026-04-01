@@ -1,0 +1,17 @@
+matplotlib==3.9.2
+numpy==1.26.4
+pandas==2.2.3
+pip==24.2
+scikit-learn==1.5.2
+scipy==1.11.4
+tqdm==4.66.5
+ucimlrepo==0.0.7
+ipykernel==6.29.5
+
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.5.1+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+torchaudio==2.5.1+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+torchvision==0.20.1+cu118
+
