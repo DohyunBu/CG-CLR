@@ -3,7 +3,7 @@
 This repository provides the implementation of the paper **"[Covariate-Guided Clusterwise Linear Regression for Generalization to Unseen Data](https://iclr.cc/virtual/2026/poster/10011820)"**.
 
 <p align="center">
-  <img src-"./img/ICLR POSTER - CGCLR.png"/>
+  <img src="./img/ICLR_POSTER_CGCLR.png" width="600"/>
 </p>
 
 
